@@ -5,3 +5,5 @@
 26/02/2025 - Testing file diff 
 26/02/2025 - Testing "commit -a"
 26/02/2025 - Testing "mv"
+1/3/2025 - Testing "commit --amend"
+1/3/2025 - Testing "commit --amend" pt.2
