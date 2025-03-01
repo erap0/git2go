@@ -8,3 +8,4 @@
 1/3/2025 - Testing "commit --amend"
 1/3/2025 - Testing "commit --amend" pt.2
 1/3/2025 - Testing "reset HEAD" command
+1/3/2025 - Testing "checkout" command 
