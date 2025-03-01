@@ -7,3 +7,4 @@
 26/02/2025 - Testing "mv"
 1/3/2025 - Testing "commit --amend"
 1/3/2025 - Testing "commit --amend" pt.2
+1/3/2025 - Testing "reset HEAD" command
