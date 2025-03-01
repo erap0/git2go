@@ -10,3 +10,4 @@
 1/3/2025 - Testing "reset HEAD" command
 1/3/2025 - Testing "checkout" command 
 1/3/2025 - Testing "restore normal (checkout) & restore --staged (reset)"
+1/3/2025 - Testing "tag -a & -lw"
