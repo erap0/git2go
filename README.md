@@ -11,3 +11,4 @@
 1/3/2025 - Testing "checkout" command 
 1/3/2025 - Testing "restore normal (checkout) & restore --staged (reset)"
 1/3/2025 - Testing "tag -a & -lw"
+1/3/2025 - Initial version before uploading to remote repositores
